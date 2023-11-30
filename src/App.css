@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.najma{
+    margin-right: 15px;
+    margin-bottom: 4px;
+}
+.add{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 50px;
+}
+
+
